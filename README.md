@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yash-Gawande
 - 👀 I’m interested in ... Data science nd Photography 
 - 🌱 I’m currently learning ... Data Science 
-- 💞️ I’m looking for an opportunity in ... field of Data science and apply my knowledge for the betterment of the society 
-- 📫 How to reach me ... yashgawnde92@gmail.com or +91-8975343569
+- 💞️ I’m looking for an opportunity in ... Data analytics and Junior Data Scientist and apply my knowledge for the Development of Organisation and in myself 
+- 📫 How to reach me ... yashgawnde92@gmail.com 
 - 😄 Pronouns: ... Yash 
 - ⚡ Fun fact: ... Im Good Photographer also😁
 
