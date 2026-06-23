@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 - 🏢 Junior Software Developer at **Upperthrust Technology**  
 - 👀 Passionate about **Data Science, Backend Development, and Machine Learning**  
-- 📷 Fun fact: I’m also a pretty good **Photographer** 😁  
+- 📷 Fun fact: 
 
 ### 📫 Connect With Me  
 - Email: **yashgawnde92@gmail.com**  
