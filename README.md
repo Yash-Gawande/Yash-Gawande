@@ -22,6 +22,7 @@
 - 👀 Passionate about **Data Science**, **Backend Development** and **Machine Learning**
 - 🤖 Building **RAG pipelines**, LLM tool-calling and conversational AI systems
 - 🧾 Automating document workflows with **OCR** and **regex pipelines**
+- 📷 Fun fact: *(add yours here!)*
 
 ---
 
@@ -247,29 +248,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Streak
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yash-Gawande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Gawande&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Yash-Gawande&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Gawande&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yash-Gawande&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 </div>
 
 ---
