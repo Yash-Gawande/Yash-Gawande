@@ -22,7 +22,6 @@
 - 👀 Passionate about **Data Science**, **Backend Development** and **Machine Learning**
 - 🤖 Building **RAG pipelines**, LLM tool-calling and conversational AI systems
 - 🧾 Automating document workflows with **OCR** and **regex pipelines**
-- 📷 Fun fact: *(add yours here!)*
 
 ---
 
@@ -116,9 +115,11 @@
 ## 💼 Experience & Projects
 
 ### 🏢 Mannlöwe Information Services Pvt. Ltd.
+<p>
 <img src="https://img.shields.io/badge/Software%20Developer-Full--time-0A66C2?style=flat-square" alt="Role" />
 <img src="https://img.shields.io/badge/Aug%202026%20--%20Present-4CAF50?style=flat-square" alt="Duration" />
 <img src="https://img.shields.io/badge/Pune%20%2F%20Pimpri--Chinchwad-On--site-607D8B?style=flat-square" alt="Location" />
+</p>
 
 #### 🔹 Lighthouse Community Foundation (LCF) — Social Impact Platform
 *Youth Skilling & Employment*
@@ -129,6 +130,7 @@
 - Debugged backend issues, improved **API reliability** and ensured **data consistency** across modules
 - Collaborated on integrating youth skilling and placement functionality to streamline recruitment operations
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white" alt="Frappe" />
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" alt="REST APIs" />
@@ -136,13 +138,16 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
 
 ---
 
 ### 🏢 Upperthrust Technologies
+<p>
 <img src="https://img.shields.io/badge/Software%20Developer-Full--time-0A66C2?style=flat-square" alt="Role" />
 <img src="https://img.shields.io/badge/May%202025%20--%20Jul%202026-9E9E9E?style=flat-square" alt="Duration" />
 <img src="https://img.shields.io/badge/Pune%20District-On--site-607D8B?style=flat-square" alt="Location" />
+</p>
 
 #### 🔹 Data Cleaning & Validation Platform (Talenode)
 - Developed a **web-based data quality platform** for business and HR datasets
@@ -150,6 +155,7 @@
 - Implemented **configurable rules** for data types, duplicates, nulls/blanks, finite lists and association validation
 - Used **Pandas / NumPy** for data processing and **REST APIs** for ingestion, validation and reporting
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -157,23 +163,27 @@
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square" alt="REST API" />
 <img src="https://img.shields.io/badge/Data%20Validation-4CAF50?style=flat-square" alt="Data Validation" />
 <img src="https://img.shields.io/badge/Automation-009688?style=flat-square" alt="Automation" />
+</p>
 
 #### 🔹 Automated Document & Invoice Processing (PMS — Petrol Pump Management System)
 - Built an **end-to-end automated invoice processing** solution for logistics and financial documents
 - Used **OCR**, **regex pattern matching** and text processing to extract structured data from unstructured documents
 - Built parsing, validation and transformation workflows, improving **accuracy** and reducing manual processing
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/OCR-9C27B0?style=flat-square" alt="OCR" />
 <img src="https://img.shields.io/badge/Regex-F44336?style=flat-square" alt="Regex" />
 <img src="https://img.shields.io/badge/Document%20Processing-3F51B5?style=flat-square" alt="Document Processing" />
 <img src="https://img.shields.io/badge/Data%20Extraction-FF9800?style=flat-square" alt="Data Extraction" />
+</p>
 
 #### 🔹 RAG-Based Context-Aware Chatbot
 - Developed a **Retrieval-Augmented Generation (RAG)** chatbot using domain knowledge
 - Implemented document ingestion, chunking, embeddings, vector search, retrieval and LLM response generation
 - Used **LangChain** for orchestration, with vector databases, **tool calling** and REST APIs for semantic search and external actions
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="RAG" />
 <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" alt="Generative AI" />
@@ -182,6 +192,7 @@
 <img src="https://img.shields.io/badge/Embeddings-E91E63?style=flat-square" alt="Embeddings" />
 <img src="https://img.shields.io/badge/NLP-00BCD4?style=flat-square" alt="NLP" />
 <img src="https://img.shields.io/badge/Tool%20Calling-673AB7?style=flat-square" alt="Tool Calling" />
+</p>
 
 #### 🔹 Quick Commerce & Conversational Commerce Platform
 - Developed a **full-stack quick commerce platform** with product, cart, customer, order, authentication and payment workflows
@@ -189,6 +200,7 @@
 - Developed a **WhatsApp conversational commerce** solution for product discovery, customer interactions and orders
 - Integrated WhatsApp APIs, PostgreSQL, ERPNext, Docker, cloud services and third-party APIs
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -196,6 +208,7 @@
 <img src="https://img.shields.io/badge/ERPNext-5E64FF?style=flat-square" alt="ERPNext" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Payments-0C2451?style=flat-square" alt="Payments" />
+</p>
 
 **Earlier at Upperthrust:** Software Development Trainee (Nov 2024 – May 2025) — Deep Learning, Natural Language Processing (NLP)
 
