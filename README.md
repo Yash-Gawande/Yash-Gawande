@@ -149,7 +149,7 @@
 <img src="https://img.shields.io/badge/Pune%20District-On--site-607D8B?style=flat-square" alt="Location" />
 </p>
 
-#### 🔹 Data Cleaning & Validation Platform (Talenode)
+#### 🔹 Data Cleaning & Validation Platform
 - Developed a **web-based data quality platform** for business and HR datasets
 - Built **Python / FastAPI** services for data validation, cleansing, standardization and quality control
 - Implemented **configurable rules** for data types, duplicates, nulls/blanks, finite lists and association validation
@@ -165,7 +165,7 @@
 <img src="https://img.shields.io/badge/Automation-009688?style=flat-square" alt="Automation" />
 </p>
 
-#### 🔹 Automated Document & Invoice Processing (PMS — Petrol Pump Management System)
+#### 🔹 Automated Document & Invoice Processing
 - Built an **end-to-end automated invoice processing** solution for logistics and financial documents
 - Used **OCR**, **regex pattern matching** and text processing to extract structured data from unstructured documents
 - Built parsing, validation and transformation workflows, improving **accuracy** and reducing manual processing
