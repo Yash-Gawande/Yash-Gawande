@@ -1,7 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Yash%20Gawande&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Data%20Science%20%7C%20ML&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Yash%20Gawande&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+
+<h3>Software Developer | Backend Engineer | FastAPI | REST APIs | GenAI &amp; RAG | LangChain | LangGraph | PostgreSQL | Frappe | ERPNext | WhatsApp Commerce</h3>
 
 <a href="https://github.com/Yash-Gawande">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=Software+Developer+%40+Mannlowe+Information+Services;Backend+Developer+%7C+Python%2C+FastAPI+%26+Frappe;Building+RAG+%26+Conversational+AI+Systems;Passionate+about+Data+Science+%26+ML+%F0%9F%9A%80" alt="Typing SVG" />
@@ -19,11 +21,7 @@
 ## 🚀 About Me
 
 - 🏢 Currently working as a Software Developer at **Mannlöwe Information Services Pvt. Ltd.**
-- 👀 Passionate about **Data Science**, **Backend Development** and **Machine Learning**
-- 🤖 Building **RAG pipelines**, LLM tool-calling and conversational AI systems
-- 🧾 Automating document workflows with **OCR** and **regex pipelines**
-- 📷 Fun fact: *(add yours here!)*
-
+- 👀 Passionate about **Backend Software Development**, **AI Engineering** and **Machine Learning**
 ---
 
 ## 📫 Connect With Me
@@ -58,6 +56,7 @@
 ### 🤖 AI & RAG Stack
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG" />
 <img src="https://img.shields.io/badge/Chroma-FFB400?style=for-the-badge" alt="Chroma" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
