@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Yash%20Gawande&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Data%20Science%20%7C%20ML&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/Yash-Gawande">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Mannlowe+Information+Services;Backend+Developer+%7C+FastAPI+%26+Frappe;Building+RAG+%26+Conversational+AI+Systems;Passionate+about+Data+Science+%26+ML+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=Software+Developer+%40+Mannlowe+Information+Services;Backend+Developer+%7C+FastAPI+%26+Frappe;Building+RAG+%26+Conversational+AI+Systems;Passionate+about+Data+Science+%26+ML+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
